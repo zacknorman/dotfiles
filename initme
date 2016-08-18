@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod 666 /dev/tty0
+chmod 666 /dev/tty3
+echo "$(tput setaf 3)Hunting Mode Enabled...$(tput sgr0)"
