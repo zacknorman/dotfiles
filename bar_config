@@ -1,5 +1,4 @@
 #!/bin/bash
-##PROGRAMMED BY ZACK NORMAN
  # Color directory
 CD="$HOME/.Xresources"
 
